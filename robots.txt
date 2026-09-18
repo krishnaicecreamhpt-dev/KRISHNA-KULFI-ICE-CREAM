@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://krishnaicecreamhpt-dev.github.io/KRISHNA-KULFI-ICE-CREAM/sitemap.xml
